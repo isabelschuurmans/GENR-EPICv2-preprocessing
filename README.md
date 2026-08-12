@@ -16,8 +16,9 @@ This repositiory contains scripts for longitudinal DNA methylation (DNAm) profil
 2. **[Quality Control](2-quality_control/README.md)**  
 	*Reduce technical bias while preserving biological variation.*  
 	2.1 [QC and functional normalization preparation](2-quality_control/2.1-qc_and_normalization_preparation.R)  
-	2.2 [Functional normalization](2-quality_control/2.2-normalization.R)  
+	2.2 [Functional normalization](2-quality_control/2.2-normalization.R)
+    2.3. Sample identity (under development)
 	2.4 [Outlier handling](2-quality_control/2.4-outlier_handling.R)  
-3. **[Analytical considerations](3-analytical_considerations/README.md)**  
+4. **[Analytical considerations](3-analytical_considerations/README.md)**  
 	*Address remaining technical and biological variation in downstream analyses.*    
 	3.1 [Cell type proportion calculation](3-analytical_considerations/3.1-cell_type_proportions.R)  
